@@ -21,8 +21,8 @@ jobs:
           cache: 'npm'
 
       # Шаг 3: Проверка HTML (опционально)
-      - name: HTML Validation
-        uses: cyrilletuzi/validate-html@v4
+      - name: Validate HTML
+        uses: html-validate/github-action@v5
         with:
           pattern: "**/*.html"
           level: warning

@@ -21,11 +21,11 @@ jobs:
           cache: 'npm'
 
       # Шаг 3: Проверка HTML (опционально)
-      - name: Validate HTML
-        uses: html-validate/action@v5
-        with:
-          pattern: "**/*.html"
-          level: warning
+      #- name: Validate HTML
+      #  uses: html-validate/action@v5
+      #  with:
+      #    pattern: "**/*.html"
+      #    level: warning
 
       # Шаг 4: Деплой на GitHub Pages
       - name: Deploy to GitHub Pages

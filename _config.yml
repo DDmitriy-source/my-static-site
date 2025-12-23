@@ -1,7 +1,7 @@
 title: "Мой статический сайт"
 description: "Современный статический сайт на GitHub Pages"
 baseurl: "/my-static-site"
-url: "https://username.github.io"
+url: "https://DDmitriy-source.github.io"
 # Настройки сборки
 markdown: kramdown
 permalink: pretty
@@ -13,5 +13,5 @@ plugins:
 google_analytics: false
 # Автор
 author:
-name: "Ваше Имя"
-email: "ваш.email@example.com"
+name: "Дмитрий Данилец"
+email: "dmitriy.danilets@gmail.com"

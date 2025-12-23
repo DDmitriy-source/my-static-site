@@ -22,7 +22,7 @@ jobs:
 
       # Шаг 3: Проверка HTML (опционально)
       - name: Validate HTML
-        uses: html-validate/github-action@v5
+        uses: html-validate/action@v5
         with:
           pattern: "**/*.html"
           level: warning

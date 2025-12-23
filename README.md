@@ -1,5 +1,5 @@
 # Мой статический сайт
-[![Deploy to GitHub Pages](https://github.com/username/my-staticsite/actions/workflows/deploy.yml/badge.svg)](https://github.com/username/mystatic-site/actions)
+[![Deploy to GitHub Pages](https://github.com/DDmitriy-source/my-static-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/DDmitriy-source/my-static-site/actions)
 Современный статический сайт, развернутый на GitHub Pages с использованием
 CI/CD.
 ## 🚀 Особенности
@@ -19,10 +19,10 @@ my-static-site/
 ## 🛠 Локальная разработка
 1. Клонируйте репозиторий:
 bash
-git clone https://github.com/username/my-static-site.git
+git clone https://github.com/DDmitriy-source/my-static-site.git
 2. Откройте `index.html` в браузере или используйте Live Server в VS Code.
 ## 🌐 Деплой
 Сайт автоматически деплоится при пуше в ветку `main`.
-**Production URL:** https://username.github.io/my-static-site
+**Production URL:** https://DDmitriy-source.github.io/my-static-site
 ## 📝 Лицензия
 MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
